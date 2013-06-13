@@ -7,9 +7,4 @@ This repo has 3 folders:
       * There is already compiled binary in the ARM_prebuild folder. It can be used as first tests.
 Way point coordinates specified in Arduino program.
 
-This Software is ALPHA ! It is provided for reference only. Use it at
-your own risk. Use of this software may loose you your drone, or put
-you in all sorts of touble. Make sure to obey local rules, laws, and regulations
-considering air traffic where you fly. I'm telling you to do so now !
-
-Have fun.
+This Software is ALPHA! Use it at your own risk. Using the binary can cause unstable flights and you have the risks of losing your drone.
