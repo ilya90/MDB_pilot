@@ -1,0 +1,1 @@
+cmd_/home/ilya/Documents/ardu_elim_test/GPS_driver/read_gps.ko := arm-linux-gnueabi-ld -EL -r  -T /home/ilya/drone_kernel/scripts/module-common.lds --build-id -o /home/ilya/Documents/ardu_elim_test/GPS_driver/read_gps.ko /home/ilya/Documents/ardu_elim_test/GPS_driver/read_gps.o /home/ilya/Documents/ardu_elim_test/GPS_driver/read_gps.mod.o
